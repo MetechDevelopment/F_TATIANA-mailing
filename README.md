@@ -1,19 +1,19 @@
 # F_TATIANA-mailing
 Emails para eventos de la fundación tatiana
 
-Estructura:  
+### Estructura:  
 Raiz  
-|-aaaa_mm-nombredelevento   
-  |- invitacion.mjml  
-  |- confirmacion.mjml  
-  |- datos(?).mjml  
-  |- postevento_invitados.mjml  
-  |- postevento_no-ionvitados.mjml  
+> aaaa_mm-nombredelevento   
+>> invitacion.mjml  
+>> confirmacion.mjml  
+>> datos(?).mjml  
+>> postevento_invitados.mjml  
+>> postevento_no-ionvitados.mjml  
   
 ej.  
-2023_01-eventoxaniversario  
-  |- invitacion.mjml  
-  |- confirmacion.mjml  
-  |- datos(?).mjml  
-  |- postevento_invitados.mjml  
-  |- postevento_no-ionvitados.mjml  
+> 2023_01-eventoxaniversario  
+>> invitacion.mjml  
+>> confirmacion.mjml  
+>> datos(?).mjml  
+>> postevento_invitados.mjml  
+>> postevento_no-ionvitados.mjml  
