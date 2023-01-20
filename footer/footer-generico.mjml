@@ -1,0 +1,12 @@
+<mj-wrapper full-width="full-width" padding-top="0">
+  <mj-section>
+    <mj-column width="80%" padding="0">
+      <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+        Todos los derechos reservados.
+      </mj-text>
+      <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+        &copy; <a href="https://expomark.es/">Expomark</a>, 2022.
+      </mj-text>
+    </mj-column>
+  </mj-section>
+</mj-wrapper>

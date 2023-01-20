@@ -1,0 +1,155 @@
+<mjml>
+  <mj-head>
+    <mj-title>Fundación Tatiana</mj-title>
+    <mj-preview>Fundación Tatiana</mj-preview>
+    <mj-font name="Open Sans" href="https://fonts.googleapis.com/css2?family=Noto+Sans+Georgian:wght@400;500&display=swap" />
+    <mj-attributes>
+
+      <mj-all font-family="Open Sans, Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text color="#282828" font-size="15px" align="left" letter-spacing=".3px" line-height="20px" font-family="Open Sans, Helvetica, Arial, sans-serif"></mj-text>
+    </mj-attributes>
+    <mj-style>
+      @media all and (max-width: 480px) {
+        .column__padding {
+          padding: 0 30px !important;
+        }
+
+        .logo-cabecera__image {
+          display: grid;
+          max-width: 150px;
+          margin: 0 auto;
+          padding-bottom: 30px !important;
+          padding-left: 0 !important;
+        }
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link {
+        color: #212121
+      }
+
+      .footer-link {
+        color: #212121;
+      }
+
+      .all-shadow {
+        -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
+
+      .body-section {
+        background-color: #e6e4da;
+        max-width: 100%;
+        margin: 0 auto;
+        width: 100%;
+      }
+
+      .background__section {
+        background-color: #fff;
+      }
+
+      .redes-sociales {
+        background-color: #fff;
+        padding: 20px 50px 20px;
+        padding-top: 0;
+        width: 600px;
+      }
+
+      .texto__titulo {
+        font-weight: 300;
+        color: #000;
+        text-align: center;
+        margin: 10px 0 !important;
+      }
+
+      .column__padding {
+        padding: 0 60px !important;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body css-class="body-section">
+    <mj-section full-width="full-width" padding-bottom="10px">
+      <mj-column width="100%">
+        <mj-text align="center" font-size="11px" padding-top="0" color="#000000"> Si no visualiza correctamente este correo haga clic <a href="https://emailing.metech.es/2023/02/test/" style="color: #000000; font-weight: 500;">aquí</a>.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Logos -->
+    <mj-section css-class="background__section">
+      <mj-column width="100%">
+        <mj-image src="https://emailing.metech.es/2023/02/fundacion-tatiana/img/fundacion.png" width="300px" alt="Fundación Tatiana" padding="0" css-class="logo-cabecera__image" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Img principal -->
+    <mj-section css-class="background__section" padding-top="20px" padding="0">
+      <mj-column width="100%">
+        <mj-image src="https://emailing.metech.es/2023/02/test/doc/img/fundacion-tatiana.jpg" width="600px" alt="Fundación Tatiana" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="background__section">
+      <mj-column width="100%">
+        <mj-text css-class="column__padding">
+          <p class="texto__titulo">
+            Estimado Arturo Sendra:
+          </p>
+        </mj-text>
+        <mj-text css-class="column__padding">
+          <p class="texto__titulo">
+            Para celebrar el final de nuestro <strong>X Aniversario</strong>, es para nosotros un honor invitarle a una cena que tendrá lugar el próximo 8 de febrero en la Sala de las Musas del Museo del Prado. Previamente, se realizará una visita a la exposición de los bocetos de Goya de la Colección de la Fundación, que actualmente se exhibe en el Museo del Prado.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="background__section" padding-top="0" >
+      <mj-column width="50%">
+        <mj-button align="center" background-color="#4a5d41" color="#fff" font-size="16px" font-weight="bold" inner-padding="20px 30px" vertical-align="middle" href="#">ACEPTAR INVITACIÓN</mj-button>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-button align="center" background-color="#4a5d41" color="#fff" font-size="16px" font-weight="bold" inner-padding="20px 30px" vertical-align="middle" href="#">RECHAZAR INVITACIÓN</mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- iconos -->
+    <mj-section padding="10px 40px 0" css-class="background__section">
+      <mj-group width="50%">
+        <mj-column width="20%" padding-bottom="20px">
+          <mj-raw>
+            <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiM0OTVkNDEiIGQ9Ik0xOSA0aC0xVjJoLTJ2Mkg4VjJINnYySDVjLTEuMTEgMC0xLjk5LjktMS45OSAyTDMgMjBhMiAyIDAgMCAwIDIgMmgxNGMxLjEgMCAyLS45IDItMlY2YzAtMS4xLS45LTItMi0yem0wIDE2SDVWMTBoMTR2MTB6TTkgMTRIN3YtMmgydjJ6bTQgMGgtMnYtMmgydjJ6bTQgMGgtMnYtMmgydjJ6bS04IDRIN3YtMmgydjJ6bTQgMGgtMnYtMmgydjJ6bTQgMGgtMnYtMmgydjJ6Ii8+PC9zdmc+" style="width:100%"></img>
+          </mj-raw>
+        </mj-column>
+        <mj-column width="80%" padding-bottom="20px">
+          <mj-text color="#000" padding-top="0" padding-bottom="0">
+            <strong>8 de febrero de 2023</strong>
+          </mj-text>
+          <mj-text color="#000" padding-top="0">de 20:00 a 00:00 h.</mj-text>
+        </mj-column>
+      </mj-group>
+      <mj-group width="50%">
+        <mj-column width="20%" padding-bottom="20px">
+          <mj-raw>
+            <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiM0OTVkNDEiIGQ9Ik0xOCA4YzAtMy4zMS0yLjY5LTYtNi02UzYgNC42OSA2IDhjMCA0LjUgNiAxMSA2IDExczYtNi41IDYtMTF6bS04IDBjMC0xLjEuOS0yIDItMnMyIC45IDIgMmEyIDIgMCAxIDEtNCAwek01IDIwdjJoMTR2LTJINXoiLz48L3N2Zz4=" style="width:100%"></img>
+          </mj-raw>
+        </mj-column>
+        <mj-column width="80%" padding-bottom="20px">
+          <mj-text color="#000" padding-top="0" padding-bottom="0">
+            <strong>Sala de las Musas</strong> Museo del Prado
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <!-- texto -->
+    <mj-section css-class="background__section" padding-top="10px">
+      <mj-column width="100%">
+        <mj-text css-class="column__padding">
+          <p class="texto__titulo">
+            Me dirijo a usted como presidente de la Fundación Tatiana, que tiene su origen en la decisión de <strong>Tatiana Pérez de Guzmán el Bueno</strong> de dejar su patrimonio al servicio de la sociedad. Gracias a esa decisión fundacional, miles de jóvenes investigadores, líderes y emprendedores se benefician hoy de su legado.
+            </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-include path="../footer/footer-generico.mjml" />
+  </mj-body>
+</mjml>
