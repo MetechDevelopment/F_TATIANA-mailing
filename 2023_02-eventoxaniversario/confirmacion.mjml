@@ -70,7 +70,7 @@
   <mj-body css-class="body-section">
     <mj-section full-width="full-width" padding-bottom="10px">
       <mj-column width="100%">
-        <mj-text align="center" font-size="11px" padding-top="0" color="#000000"> Si no visualiza correctamente este correo haga clic <a href="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/" style="color: #000000; font-weight: 500;">aquí</a>.</mj-text>
+        <mj-text align="center" font-size="11px" padding-top="0" color="#000000"> Si no visualiza correctamente este correo haga clic <a href="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/agradecimiento.html" style="color: #000000; font-weight: 500;">aquí</a>.</mj-text>
       </mj-column>
     </mj-section>
     <!-- Logos -->
@@ -96,7 +96,7 @@
         </mj-text>
         <mj-text css-class="column__padding">
           <p class="texto__titulo">
-            Para celebrar el final de nuestro <strong>X Aniversario</strong>, es para nosotros un honor invitarle a una cena que tendrá lugar el próximo 8 de febrero en la Sala de las Musas del Museo del Prado. Previamente, se realizará una visita a la exposición de los bocetos de Goya de la Colección de la Fundación, que actualmente se exhibe en el Museo del Prado.
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
           </p>
         </mj-text>
       </mj-column>
@@ -144,7 +144,7 @@
       <mj-column width="100%">
         <mj-text css-class="column__padding">
           <p class="texto__titulo">
-            Me dirijo a usted como presidente de la Fundación Tatiana, que tiene su origen en la decisión de <strong>Tatiana Pérez de Guzmán el Bueno</strong> de dejar su patrimonio al servicio de la sociedad. Gracias a esa decisión fundacional, miles de jóvenes investigadores, líderes y emprendedores se benefician hoy de su legado.
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
             </p>
         </mj-text>
       </mj-column>
