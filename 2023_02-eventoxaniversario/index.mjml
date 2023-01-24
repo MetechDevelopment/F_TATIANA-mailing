@@ -70,7 +70,7 @@
   <mj-body css-class="body-section">
     <mj-section full-width="full-width" padding-bottom="10px">
       <mj-column width="100%">
-        <mj-text align="center" font-size="11px" padding-top="0" color="#000000"> Si no visualiza correctamente este correo haga clic <a href="https://emailing.metech.es/2023/02/test/" style="color: #000000; font-weight: 500;">aquí</a>.</mj-text>
+        <mj-text align="center" font-size="11px" padding-top="0" color="#000000"> Si no visualiza correctamente este correo haga clic <a href="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/" style="color: #000000; font-weight: 500;">aquí</a>.</mj-text>
       </mj-column>
     </mj-section>
     <!-- Logos -->
@@ -83,7 +83,7 @@
     <!-- Img principal -->
     <mj-section css-class="background__section" padding-top="20px" padding="0">
       <mj-column width="100%">
-        <mj-image src="https://emailing.metech.es/2023/02/test/doc/img/fundacion-tatiana.jpg" width="600px" alt="Fundación Tatiana" padding="0" />
+        <mj-image src="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/doc/img/header-fundacion-tatiana.jpg" width="600px" alt="Fundación Tatiana" padding="0" />
       </mj-column>
     </mj-section>
 
