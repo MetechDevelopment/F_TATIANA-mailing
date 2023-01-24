@@ -162,6 +162,6 @@
       </mj-column>
     </mj-section>
     
-    <mj-include path="../fundacion-tatiana/footer-generico.mjml" />
+    <mj-include path="../footer/footer-generico.mjml" />
   </mj-body>
 </mjml>
