@@ -163,12 +163,14 @@
         </mj-text>
       </mj-column>
     </mj-section>
+
     <mj-section background-color="#fff" padding-top="0">
       <mj-column width="100%">
         <mj-divider border-width="1px" border-style="solid" border-color="#D3D3D3" />
       </mj-column>
     </mj-section>
-    <mj-section background-url="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/doc/img/2023_02-eventoxaniversario/doc/img/background-pie.png" padding-top="0">
+    
+    <mj-section background-url="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/doc/img/background-pie.png"  background-size="600px" background-repeat="no-repeat" background-color="#fff" padding="80px 0">
       <mj-column width="100%">
         <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
           <i>Copyright © 2023</i>
