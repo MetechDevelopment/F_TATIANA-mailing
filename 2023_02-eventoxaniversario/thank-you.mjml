@@ -69,7 +69,7 @@
   <mj-body css-class="body-section">
     <mj-section full-width="full-width" padding-bottom="10px">
       <mj-column width="100%">
-        <mj-text align="center" font-size="11px" padding-top="0" color="#000000"> Si no visualiza correctamente este correo haga clic <a href="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/thnak-you.html" style="color: #000000; font-weight: 500;">aquí</a>.</mj-text>
+        <mj-text align="center" font-size="11px" padding-top="0" color="#000000"> Si no visualiza correctamente este correo haga clic <a href="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/thank-you.html" style="color: #000000; font-weight: 500;">aquí</a>.</mj-text>
       </mj-column>
     </mj-section>
     <!-- Logos -->

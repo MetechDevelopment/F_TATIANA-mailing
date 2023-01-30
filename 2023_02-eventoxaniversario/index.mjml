@@ -38,7 +38,7 @@
       }
 
       .body-section {
-        background-color: #e6e4da;
+        background-color: #e5e5e5;
         max-width: 100%;
         margin: 0 auto;
         width: 100%;
@@ -76,14 +76,14 @@
     <!-- Logos -->
     <mj-section css-class="background__section">
       <mj-column width="100%">
-        <mj-image src="https://emailing.metech.es/2023/02/fundacion-tatiana/img/fundacion.png" width="300px" alt="Fundación Tatiana" padding="0" css-class="logo-cabecera__image" />
+        <mj-image src="/doc/img/logo-prueba.svg" width="300px" alt="Fundación Tatiana" padding="0" css-class="logo-cabecera__image" />
       </mj-column>
     </mj-section>
 
     <!-- Img principal -->
-    <mj-section css-class="background__section" padding-top="20px" padding="0">
+    <mj-section css-class="background__section" padding="0">
       <mj-column width="100%">
-        <mj-image src="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/doc/img/header-fundacion-tatiana.jpg" width="600px" alt="Fundación Tatiana" padding="0" />
+        <mj-image src="/doc/img/fundacion-header.jpg" width="600px" alt="Fundación Tatiana" padding="0" />
       </mj-column>
     </mj-section>
 
@@ -104,7 +104,7 @@
 
     <mj-section css-class="background__section" padding-top="0" >
       <mj-column width="100%">
-        <mj-button align="center" background-color="#4a5d41" color="#fff" font-size="16px" font-weight="bold" inner-padding="20px 30px" vertical-align="middle" href="#">SOLICITAR INVITACIÓN</mj-button>
+        <mj-button align="center" background-color="#1A1A1A" color="#fff" font-size="16px" font-weight="bold" inner-padding="20px 30px" vertical-align="middle" href="#">ACEPTAR INVITACIÓN</mj-button>
       </mj-column>
     </mj-section>
     <!-- iconos -->
@@ -112,7 +112,7 @@
       <mj-group width="50%">
         <mj-column width="20%" padding-bottom="20px">
           <mj-raw>
-            <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiM0OTVkNDEiIGQ9Ik0xOSA0aC0xVjJoLTJ2Mkg4VjJINnYySDVjLTEuMTEgMC0xLjk5LjktMS45OSAyTDMgMjBhMiAyIDAgMCAwIDIgMmgxNGMxLjEgMCAyLS45IDItMlY2YzAtMS4xLS45LTItMi0yem0wIDE2SDVWMTBoMTR2MTB6TTkgMTRIN3YtMmgydjJ6bTQgMGgtMnYtMmgydjJ6bTQgMGgtMnYtMmgydjJ6bS04IDRIN3YtMmgydjJ6bTQgMGgtMnYtMmgydjJ6bTQgMGgtMnYtMmgydjJ6Ii8+PC9zdmc+" style="width:100%"></img>
+            <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiMxYTFhMWEiIGQ9Ik0xOSA0aC0xVjJoLTJ2Mkg4VjJINnYySDVjLTEuMTEgMC0xLjk5LjktMS45OSAyTDMgMjBhMiAyIDAgMCAwIDIgMmgxNGMxLjEgMCAyLS45IDItMlY2YzAtMS4xLS45LTItMi0yem0wIDE2SDVWMTBoMTR2MTB6TTkgMTRIN3YtMmgydjJ6bTQgMGgtMnYtMmgydjJ6bTQgMGgtMnYtMmgydjJ6bS04IDRIN3YtMmgydjJ6bTQgMGgtMnYtMmgydjJ6bTQgMGgtMnYtMmgydjJ6Ii8+PC9zdmc+" style="width:100%"></img>
           </mj-raw>
         </mj-column>
         <mj-column width="80%" padding-bottom="20px">
@@ -125,7 +125,7 @@
       <mj-group width="50%">
         <mj-column width="20%" padding-bottom="20px">
           <mj-raw>
-            <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiM0OTVkNDEiIGQ9Ik0xOCA4YzAtMy4zMS0yLjY5LTYtNi02UzYgNC42OSA2IDhjMCA0LjUgNiAxMSA2IDExczYtNi41IDYtMTF6bS04IDBjMC0xLjEuOS0yIDItMnMyIC45IDIgMmEyIDIgMCAxIDEtNCAwek01IDIwdjJoMTR2LTJINXoiLz48L3N2Zz4=" style="width:100%"></img>
+            <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiMxYTFhMWEiIGQ9Ik0xOCA4YzAtMy4zMS0yLjY5LTYtNi02UzYgNC42OSA2IDhjMCA0LjUgNiAxMSA2IDExczYtNi41IDYtMTF6bS04IDBjMC0xLjEuOS0yIDItMnMyIC45IDIgMmEyIDIgMCAxIDEtNCAwek01IDIwdjJoMTR2LTJINXoiLz48L3N2Zz4=" style="width:100%"></img>
           </mj-raw>
         </mj-column>
         <mj-column width="80%" padding-bottom="20px">
