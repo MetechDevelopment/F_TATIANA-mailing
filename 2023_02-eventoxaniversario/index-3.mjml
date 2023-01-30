@@ -20,6 +20,10 @@
           margin: 0 auto;
           padding-left: 0 !important;
         }
+
+        .texto__titulo--direccion{
+            font-size: 10px;
+        }
       }
     </mj-style>
     <mj-style inline="inline">
