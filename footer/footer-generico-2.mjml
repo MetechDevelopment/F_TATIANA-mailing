@@ -2,10 +2,10 @@
   <mj-section>
     <mj-column width="80%" padding="0">
       <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
-        Si no desea seguir recibiendo esta información, por favor haga clic <a style="color:#444444; text-decoration:underline;" href=" ">aquí</a>.
+        Si no desea seguir recibiendo esta información, <br />por favor haga clic <a style="color:#444444; text-decoration:underline;" href=" ">aquí</a>.
       </mj-text>
       <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
-        &copy; Expomark & Metech, 2022.
+        &copy; Metech, 2022.
       </mj-text>
       <mj-text color="#445566" font-size="11px" align="center" line-height="16px" font-weight="bold">
           <a class="footer-link" href=" ">Darse de baja</a>

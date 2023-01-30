@@ -172,13 +172,9 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#fff" padding-top="0">
-      <mj-column width="100%">
-        <mj-divider border-width="1px" border-style="solid" border-color="#D3D3D3" />
-      </mj-column>
-    </mj-section>
+   
 
-    <mj-section background-url="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/doc/img/background-pie.png" background-size="600px" background-repeat="no-repeat" background-color="#fff" padding="40px 0">
+    <mj-section background-url="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/doc/img/background-pie.png" background-size="600px" background-repeat="no-repeat" background-color="#fff" padding="0px 0">
       <mj-column width="100%">
         <mj-text color="#445566" padding-bottom="0">
           <p class="texto__titulo--pie-legal">
@@ -202,15 +198,7 @@
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#000000">
-      <mj-column width="80%">
-        <mj-text css-class="column__padding" color="#fff" align="center">
-          <p>
-            ® Fundación Tatiana Pérez de Guzmán el Bueno
-          </p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
+    
 
     <mj-include path="../footer/footer-generico-2.mjml" />
   </mj-body>
