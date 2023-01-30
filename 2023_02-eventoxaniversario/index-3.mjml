@@ -22,7 +22,7 @@
         }
 
         .texto__titulo--direccion{
-            font-size: 10px;
+            font-size: 10px !important;
         }
       }
     </mj-style>
@@ -191,7 +191,7 @@
           </mj-text>
           <mj-text color="#445566" padding-top="0">
             <p class="texto__titulo--direccion">
-              <a href="https://emailing.metech.es/2023/02/fundacion-tatiana/doc/contacto-fundacion-tatiana.vcf">Añádenos a tu libreta de direcciones.</a>
+              <a href="https://emailing.metech.es/2023/02/fundacion-tatiana/doc/contacto-fundacion-tatiana.vcf" style="color: #000;">Añádenos a tu libreta de direcciones.</a>
             </p>
           </mj-text>
         </mj-column>
