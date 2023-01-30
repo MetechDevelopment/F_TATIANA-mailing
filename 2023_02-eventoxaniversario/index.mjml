@@ -76,7 +76,7 @@
     <!-- Logos -->
     <mj-section css-class="background__section" padding="40px 0">
       <mj-column width="100%">
-        <mj-image src="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/doc/img/logo-prueba.svg" width="300px" alt="Fundación Tatiana" padding="0" css-class="logo-cabecera__image" />
+        <mj-image src="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/doc/img/fundacion-tat.png" width="300px" alt="Fundación Tatiana" padding="0" css-class="logo-cabecera__image" />
       </mj-column>
     </mj-section>
 
@@ -166,7 +166,7 @@
     </mj-section>
 
     <mj-section background-color="#000000">
-      <mj-column width="100%">
+      <mj-column width="80%">
         <mj-text css-class="column__padding" color="#fff" align="center">
           <p>
             ® Fundación Tatiana Pérez de Guzmán el Bueno
@@ -175,6 +175,6 @@
       </mj-column>
     </mj-section>
 
-    <mj-include path="../footer/footer-generico.mjml" />
+    <mj-include path="../footer/footer-generico-2.mjml" />
   </mj-body>
 </mjml>
