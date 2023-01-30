@@ -61,6 +61,14 @@
         margin: 10px 0 !important;
       }
 
+      .texto__titulo--pie-legal {
+        font-weight: 300;
+        font-size: 12px;
+        color: #000;
+        text-align: center;
+        margin: 5px 0 !important;
+      }
+
       .column__padding {
         padding: 0 60px !important;
       }
@@ -169,26 +177,28 @@
         <mj-divider border-width="1px" border-style="solid" border-color="#D3D3D3" />
       </mj-column>
     </mj-section>
-    
-    <mj-section background-url="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/doc/img/background-pie.png"  background-size="600px" background-repeat="no-repeat" background-color="#fff" padding="80px 0">
+
+    <mj-section background-url="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/doc/img/background-pie.png" background-size="600px" background-repeat="no-repeat" background-color="#fff" padding="40px 0">
       <mj-column width="100%">
-        <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
-          <i>Copyright © 2023</i>
+        <mj-text color="#445566" padding-bottom="0">
+          <p class="texto__titulo--pie-legal">
+            Fundación Tatiana Pérez De Guzmán El Bueno
+          </p>
         </mj-text>
-        <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
-          <i>Fundación Tatiana Pérez De Guzmán El Bueno</i>
+        <mj-text color="#445566" padding-top="0" padding-bottom="0">
+          <p class="texto__titulo--pie-legal">
+            Paseo del General Martínez Campos, 25
+          </p>
         </mj-text>
-        <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
-          <i>Todos los derechos reservados.</i>
+        <mj-text color="#445566" padding-top="0" padding-bottom="0">
+          <p class="texto__titulo--pie-legal">
+            28010. Madrid. España
+          </p>
         </mj-text>
-        <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
-          Paseo del General Martínez Campos, 25
-        </mj-text>
-        <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
-          28010. Madrid. España
-        </mj-text>
-        <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
-          <a href="https://emailing.metech.es/2023/02/fundacion-tatiana/doc/contacto-fundacion-tatiana.vcf">Añádenos a tu libreta de direcciones.</a>
+        <mj-text color="#445566" padding-top="0">
+          <p class="texto__titulo--pie-legal">
+            <a href="https://emailing.metech.es/2023/02/fundacion-tatiana/doc/contacto-fundacion-tatiana.vcf">Añádenos a tu libreta de direcciones.</a>
+          </p>
         </mj-text>
       </mj-column>
     </mj-section>
