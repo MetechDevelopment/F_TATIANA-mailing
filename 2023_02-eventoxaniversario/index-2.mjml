@@ -69,7 +69,7 @@
   <mj-body css-class="body-section">
     <mj-section full-width="full-width" padding-bottom="10px">
       <mj-column width="100%">
-        <mj-text align="center" font-size="11px" padding-top="0" color="#000000"> Si no visualiza correctamente este correo haga clic <a href="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/" style="color: #000000; font-weight: 500;">aquí</a>.</mj-text>
+        <mj-text align="center" font-size="11px" padding-top="0" color="#000000"> Si no visualiza correctamente este correo haga clic <a href="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/index-2.html" style="color: #000000; font-weight: 500;">aquí</a>.</mj-text>
       </mj-column>
     </mj-section>
     <!-- Logos -->
@@ -163,7 +163,33 @@
         </mj-text>
       </mj-column>
     </mj-section>
-
+    <mj-section background-color="#fff" padding-top="0">
+      <mj-column width="100%">
+        <mj-divider border-width="1px" border-style="solid" border-color="#D3D3D3" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-url="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/doc/img/2023_02-eventoxaniversario/doc/img/background-pie.png" padding-top="0">
+      <mj-column width="100%">
+        <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+          <i>Copyright © 2023</i>
+        </mj-text>
+        <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+          <i>Fundación Tatiana Pérez De Guzmán El Bueno</i>
+        </mj-text>
+        <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+          <i>Todos los derechos reservados.</i>
+        </mj-text>
+        <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+          Paseo del General Martínez Campos, 25
+        </mj-text>
+        <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+          28010. Madrid. España
+        </mj-text>
+        <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+          <a href="https://emailing.metech.es/2023/02/fundacion-tatiana/doc/contacto-fundacion-tatiana.vcf">Añádenos a tu libreta de direcciones.</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
     <mj-section background-color="#000000">
       <mj-column width="80%">
         <mj-text css-class="column__padding" color="#fff" align="center">
