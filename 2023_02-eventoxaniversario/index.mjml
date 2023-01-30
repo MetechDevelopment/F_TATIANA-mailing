@@ -76,14 +76,14 @@
     <!-- Logos -->
     <mj-section css-class="background__section">
       <mj-column width="100%">
-        <mj-image src="/doc/img/logo-prueba.svg" width="300px" alt="Fundación Tatiana" padding="0" css-class="logo-cabecera__image" />
+        <mj-image src="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/doc/img/logo-prueba.svg" width="300px" alt="Fundación Tatiana" padding="0" css-class="logo-cabecera__image" />
       </mj-column>
     </mj-section>
 
     <!-- Img principal -->
     <mj-section css-class="background__section" padding="0">
       <mj-column width="100%">
-        <mj-image src="/doc/img/fundacion-header.jpg" width="600px" alt="Fundación Tatiana" padding="0" />
+        <mj-image src="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/doc/img/fundacion-header.jpg" width="600px" alt="Fundación Tatiana" padding="0" />
       </mj-column>
     </mj-section>
 
