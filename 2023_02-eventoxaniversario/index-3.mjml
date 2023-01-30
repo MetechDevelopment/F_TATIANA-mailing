@@ -37,7 +37,7 @@
       }
 
       .body-section {
-        background-color: #e5e5e5;
+        background-color: #f2f2f2;
         max-width: 100%;
         margin: 0 auto;
         width: 100%;
@@ -45,13 +45,6 @@
 
       .background__section {
         background-color: #fff;
-      }
-
-      .redes-sociales {
-        background-color: #fff;
-        padding: 20px 50px 20px;
-        padding-top: 0;
-        width: 600px;
       }
 
       .texto__titulo {
@@ -179,33 +172,38 @@
       </mj-column>
     </mj-section>
 
-   
 
-    <mj-section background-url="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/doc/img/background-pie.png" background-size="100%" background-repeat="no-repeat" background-color="#fff" padding="0px 0">
-      <mj-column width="100%">
-        <mj-text color="#445566" padding-bottom="0">
-          <p class="texto__titulo--pie-legal">
-            Fundación Tatiana Pérez De Guzmán El Bueno
-          </p>
-        </mj-text>
-        <mj-text color="#445566" padding-top="0" padding-bottom="0">
-          <p class="texto__titulo--pie-legal">
-            Paseo del General Martínez Campos, 25
-          </p>
-        </mj-text>
-        <mj-text color="#445566" padding-top="0" padding-bottom="0">
-          <p class="texto__titulo--pie-legal">
-            28010. Madrid. España
-          </p>
-        </mj-text>
-        <mj-text color="#445566" padding-top="0">
-          <p class="texto__titulo--pie-legal">
-            <a href="https://emailing.metech.es/2023/02/fundacion-tatiana/doc/contacto-fundacion-tatiana.vcf">Añádenos a tu libreta de direcciones.</a>
-          </p>
-        </mj-text>
-      </mj-column>
+
+    <mj-section background-url="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/doc/img/background-pie-2.jpg" background-size="100%" background-repeat="no-repeat" background-color="#666666" padding="0">
+      <mj-group>
+        <mj-column width="50%">
+          <mj-text color="#445566" padding-bottom="0">
+            <p class="texto__titulo--pie-legal">
+              Fundación Tatiana Pérez De Guzmán El Bueno
+            </p>
+          </mj-text>
+          <mj-text color="#445566" padding-top="0" padding-bottom="0">
+            <p class="texto__titulo--pie-legal">
+              Paseo del General Martínez Campos, 25
+            </p>
+          </mj-text>
+          <mj-text color="#445566" padding-top="0" padding-bottom="0">
+            <p class="texto__titulo--pie-legal">
+              28010. Madrid. España
+            </p>
+          </mj-text>
+          <mj-text color="#445566" padding-top="0">
+            <p class="texto__titulo--pie-legal">
+              <a href="https://emailing.metech.es/2023/02/fundacion-tatiana/doc/contacto-fundacion-tatiana.vcf">Añádenos a tu libreta de direcciones.</a>
+            </p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          
+        </mj-column>
+      </mj-group>
     </mj-section>
-    
+
 
     <mj-include path="../footer/footer-generico-2.mjml" />
   </mj-body>
