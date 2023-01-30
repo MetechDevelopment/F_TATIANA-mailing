@@ -61,12 +61,12 @@
         margin: 10px 0 !important;
       }
 
-      .texto__titulo--pie-legal {
+      .texto__titulo--direccion {
         font-weight: 300;
         font-size: 12px;
         color: #000;
         text-align: center;
-        margin: 5px 0 !important;
+        margin: 0 !important;
       }
 
       .column__padding {
@@ -77,7 +77,7 @@
   <mj-body css-class="body-section">
     <mj-section full-width="full-width" padding-bottom="10px">
       <mj-column width="100%">
-        <mj-text align="center" font-size="11px" padding-top="0" color="#000000"> Si no visualiza correctamente este correo haga clic <a href="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/index-2.html" style="color: #000000; font-weight: 500;">aquí</a>.</mj-text>
+        <mj-text align="center" font-size="11px" padding-top="0" color="#000000"> Si no visualiza correctamente este correo haga clic <a href="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/index-3.html" style="color: #000000; font-weight: 500;">aquí</a>.</mj-text>
       </mj-column>
     </mj-section>
     <!-- Logos -->
@@ -172,34 +172,39 @@
       </mj-column>
     </mj-section>
 
-
-
-    <mj-section background-url="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/doc/img/background-pie-2.jpg" background-size="100%" background-repeat="no-repeat" background-color="#666666" padding="0">
+    <mj-section background-url="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/doc/img/background-pie-2.jpg" background-size="100%" background-repeat="no-repeat" background-color="#c5c5c5" >
       <mj-group>
-        <mj-column width="50%">
-          <mj-text color="#445566" padding-bottom="0">
-            <p class="texto__titulo--pie-legal">
-              Fundación Tatiana Pérez De Guzmán El Bueno
-            </p>
-          </mj-text>
+        <mj-column width="60%" padding="10px">
           <mj-text color="#445566" padding-top="0" padding-bottom="0">
-            <p class="texto__titulo--pie-legal">
+            <p class="texto__titulo--direccion">
               Paseo del General Martínez Campos, 25
             </p>
           </mj-text>
           <mj-text color="#445566" padding-top="0" padding-bottom="0">
-            <p class="texto__titulo--pie-legal">
+            <p class="texto__titulo--direccion">
               28010. Madrid. España
             </p>
           </mj-text>
           <mj-text color="#445566" padding-top="0">
-            <p class="texto__titulo--pie-legal">
+            <p class="texto__titulo--direccion">
               <a href="https://emailing.metech.es/2023/02/fundacion-tatiana/doc/contacto-fundacion-tatiana.vcf">Añádenos a tu libreta de direcciones.</a>
             </p>
           </mj-text>
         </mj-column>
-        <mj-column width="50%">
-          
+        <mj-column width="40%">
+
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section background-color="#c5c5c5" padding-bottom="0" padding-top="0">
+      <mj-group>
+        <mj-column width="100%">
+          <mj-text color="#fff" >
+            <p class="texto__titulo">
+              ® Fundación Tatiana Pérez de Guzmán el Bueno
+            </p>
+          </mj-text>
         </mj-column>
       </mj-group>
     </mj-section>
