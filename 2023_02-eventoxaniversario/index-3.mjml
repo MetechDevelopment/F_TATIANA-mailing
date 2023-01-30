@@ -181,9 +181,9 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-url="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/doc/img/background-pie-4.jpg" background-size="100%" background-repeat="no-repeat" background-color="#E5E4E4" >
+    <mj-section background-url="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/doc/img/back.jpg" background-size="100%" background-repeat="no-repeat" background-color="#E5E4E4" >
       <mj-group css-class="padding-column--pie">
-        <mj-column width="70%">
+        <mj-column width="60%">
           <mj-text color="#445566" padding-top="0" padding-bottom="0">
             <p class="texto__titulo--direccion">
               Paseo del General Martínez Campos, 25
@@ -201,7 +201,7 @@
           </mj-text>
         </mj-column>
 
-        <mj-column width="30%">
+        <mj-column width="40%">
 
         </mj-column>
       </mj-group>
