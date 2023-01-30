@@ -21,8 +21,8 @@
           padding-left: 0 !important;
         }
 
-        .texto__titulo--direccion{
-            font-size: 10px !important;
+        .texto__titulo--direccion {
+          font-size: 10px !important;
         }
       }
     </mj-style>
@@ -176,9 +176,9 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-url="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/doc/img/background-pie-2.jpg" background-size="100%" background-repeat="no-repeat" background-color="#c5c5c5" >
+    <mj-section background-url="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/doc/img/background-pie-2.jpg" background-size="100%" background-repeat="no-repeat" background-color="#E5E4E4">
       <mj-group>
-        <mj-column width="60%" padding="10px">
+        <mj-column width="70%" padding="10px">
           <mj-text color="#445566" padding-top="0" padding-bottom="0">
             <p class="texto__titulo--direccion">
               Paseo del General Martínez Campos, 25
@@ -195,7 +195,8 @@
             </p>
           </mj-text>
         </mj-column>
-        <mj-column width="40%">
+
+        <mj-column width="30%">
 
         </mj-column>
       </mj-group>
@@ -204,7 +205,7 @@
     <mj-section background-color="#c5c5c5" padding-bottom="0" padding-top="0">
       <mj-group>
         <mj-column width="100%">
-          <mj-text color="#fff" >
+          <mj-text color="#fff">
             <p class="texto__titulo">
               ® Fundación Tatiana Pérez de Guzmán el Bueno
             </p>
