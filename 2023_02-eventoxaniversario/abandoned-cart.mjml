@@ -91,22 +91,19 @@
       <mj-column width="100%">
         <mj-text css-class="column__padding">
           <p class="texto__titulo">
-            Estimado Arturo Sendra:
+            Estimado xxxxxxxxxxxxxx:
           </p>
         </mj-text>
         <mj-text css-class="column__padding">
           <p class="texto__titulo">
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+            Con motivo de la celebración del evento de clausura del <strong>X aniversario</strong> de nuestra Fundación, en fechas pasadas le hicimos llegar por correo electrónico una invitación al mismo. Al no obtener confirmación de asistencia por su parte, nos permitimos enviarle este recordatorio esperando sea de su interés.
           </p>
         </mj-text>
       </mj-column>
     </mj-section>
 
-    <mj-section css-class="background__section" padding-top="0" >
-      <mj-column width="50%">
-        <mj-button align="center" background-color="#4a5d41" color="#fff" font-size="16px" font-weight="bold" inner-padding="20px 30px" vertical-align="middle" href="#">ACEPTAR INVITACIÓN</mj-button>
-      </mj-column>
-      <mj-column width="50%">
+    <mj-section css-class="background__section" padding-top="0">
+      <mj-column width="100%">
         <mj-button align="center" background-color="#4a5d41" color="#fff" font-size="16px" font-weight="bold" inner-padding="20px 30px" vertical-align="middle" href="#">RECHAZAR INVITACIÓN</mj-button>
       </mj-column>
     </mj-section>
@@ -144,12 +141,48 @@
       <mj-column width="100%">
         <mj-text css-class="column__padding">
           <p class="texto__titulo">
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-            </p>
+            El patrimonio histórico-artístico heredado por la Fundación se ha puesto al servicio de toda la sociedad mediante la apertura del Museo Palacio de los Golfines de Abajo, en Cáceres, y la restauración de su Colección pictórica, difundida a través de conferencias y exposiciones.
+          </p>
+        </mj-text>
+        <mj-text css-class="column__padding">
+          <p class="texto__titulo">
+            En estos primeros diez años, 50 jóvenes científicos han disfrutado de un contrato predoctoral de la Fundación y hemos financiado 17 proyectos de investigación en laboratorios de toda España. Recientemente hemos puesto en marcha el Centro Internacional de Neurociencia y Ética, pionero en nuestro país. Además, más de 3.000 jóvenes se han beneficiado de nuestros programas de liderazgo cívico y emprendimiento.
+          </p>
+        </mj-text>
+        <mj-text css-class="column__padding">
+          <p class="texto__titulo">
+            Nuestra misión pretende provocar impactos trascendentes, para que todos nuestros beneficiarios se conviertan en protagonistas de sus propias decisiones en beneficio de toda la sociedad. Adjunto puede encontrar la Memoria Anual 2021 de nuestra Fundación, en la que se desglosa el alcance de nuestra actividad.
+          </p>
+        </mj-text>
+        <mj-text css-class="column__padding">
+          <p class="texto__titulo">
+            Me dirijo a usted como presidente de la Fundación Tatiana, que tiene su origen en la decisión de Tatiana Pérez de Guzmán el Bueno de dejar su patrimonio al servicio de la sociedad. Gracias a esa decisión fundacional, miles de jóvenes investigadores, líderes y emprendedores se benefician hoy de su legado.
+          </p>
+        </mj-text>
+        <mj-text css-class="column__padding">
+          <p class="texto__titulo">
+            Para celebrar el final de nuestro X Aniversario, es para nosotros un honor invitarle a una cena que tendrá lugar el próximo 8 de febrero en la Sala de las Musas del Museo del Prado. Previamente, se realizará una visita a la exposición de los bocetos de Goya de la Colección de la Fundación, que actualmente se exhibe en el Museo del Prado.
+          </p>
+        </mj-text>
+        <mj-text css-class="column__padding">
+          <p class="texto__titulo">
+            Esperando que esta invitación sea de su agrado, aprovecho la ocasión para enviarle un cordial saludo.
+          </p>
+        </mj-text>
+
+        <mj-text padding-bottom="0">
+          <p class="texto__titulo">
+            Atentamente,
+          </p>
+        </mj-text>
+        <mj-text padding-top="0">
+          <p class="texto__titulo">
+            <strong>Teodoro Sánchez-Ávila Sánchez-Migallón</strong>, <br /> Presidente de la Fundación Tatiana Pérez de Guzmán el Bueno
+          </p>
         </mj-text>
       </mj-column>
     </mj-section>
-    
+
     <mj-include path="../footer/footer-generico-2.mjml" />
   </mj-body>
 </mjml>
