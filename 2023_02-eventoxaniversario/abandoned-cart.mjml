@@ -150,6 +150,6 @@
       </mj-column>
     </mj-section>
     
-    <mj-include path="../footer/footer-generico.mjml" />
+    <mj-include path="../footer/footer-generico-2.mjml" />
   </mj-body>
 </mjml>
