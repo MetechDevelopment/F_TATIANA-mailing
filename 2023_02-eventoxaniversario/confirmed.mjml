@@ -108,7 +108,7 @@
         </mj-text>
         <mj-text css-class="column__padding">
           <p class="texto__titulo">
-            Muchas gracias por aceptar nuestra invitación a participar en el evento de clausura del X aniversario de nuestra Fundación, que tendrá lugar el próximo 8 de febrero en el Museo del Prado.
+            Muchas gracias por aceptar nuestra invitación a participar en el evento de clausura del <strong>X aniversario</strong> de nuestra Fundación, que tendrá lugar el próximo 8 de febrero en el Museo del Prado.
           </p>
         </mj-text>
       </mj-column>
