@@ -124,7 +124,7 @@
         <mj-divider css-class="column__padding" border-width="1px" border-style="solid" border-color="#000" />
         <mj-text css-class="column__padding">
           <p class="texto__titulo">
-            <strong>20:15</strong>. Recepción de los invitados se realizará a través del acceso al Museo de la Puerta de los Jerónimos.
+            <strong>20:15</strong>. Recepción de los invitados. Se realizará a través del acceso al Museo de la Puerta de los Jerónimos.
           </p>
         </mj-text>
         <mj-divider css-class="column__padding" border-width="1px" border-style="solid" border-color="#000" />
@@ -176,7 +176,7 @@
       <mj-column width="100%">
         <mj-text css-class="column__padding" color="#A9A9A9">
           <p>
-            En caso de finalmente no poder asistir se ruega avisar <a href="" style="color: #A9A9A9; ">aquí</a>.
+            En caso de no poder asistir, se ruega avisar <a href="" style="color: #A9A9A9; ">aquí</a>.
           </p>
         </mj-text>
       </mj-column>
@@ -205,7 +205,7 @@
         </mj-text>
         <mj-text css-class="column__padding">
           <p class="texto__titulo-center">
-            <i>Copyright © 2022</i>
+            <i>Copyright © 2023</i>
           </p>
           <p class="texto__titulo-center">
             <i>Fundación Tatiana Pérez De Guzmán El Bueno</i>
@@ -218,7 +218,7 @@
           <p class="texto__titulo-center">
             Paseo del General Martínez Campos, 25
           </p>
-          <p class="texto__titulo-center" >
+          <p class="texto__titulo-center">
             28010. Madrid. España
           </p>
           <p class="texto__titulo-center">
