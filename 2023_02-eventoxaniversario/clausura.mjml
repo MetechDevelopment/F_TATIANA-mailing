@@ -58,7 +58,6 @@
 
       .title__header {
         font-family: "Times New Roman", Times, serif;
-        font-size: 60px;
         color: #D3D3D3;
         text-align: center;
         line-height: 100%;
@@ -107,7 +106,7 @@
 
     <mj-section css-class="background__section">
       <mj-column width="100%">
-        <mj-text>
+        <mj-text font-size="60px">
           <p class="title__header">
             Evento X Aniversario
           </p>
@@ -229,7 +228,7 @@
 
     <mj-section background-color="#fff" padding-bottom="0px">
       <mj-column width="100%">
-        <mj-text align="center">
+        <mj-text align="center" font-size="78px">
           <span class="title__header">8.2.23</span>
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="#D3D3D3" />
@@ -238,31 +237,34 @@
 
     <mj-section background-color="#fff" padding-top="0">
       <mj-column width="100%">
-        <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+        <mj-text color="#445566" font-size="11px" align="center" line-height="16px" padding-bottom="10px">
+          <i>Paseo del General Martínez Campos, 25 28010 Madrid  |  T. +34 91 444 33 41</i>
+        </mj-text>
+        <mj-text color="#445566" font-size="11px" align="center" line-height="16px" padding-bottom="2px">
           <i>Copyright © 2023</i>
         </mj-text>
-        <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+        <mj-text color="#445566" font-size="11px" align="center" line-height="16px" padding-top="2px" padding-bottom="2px">
           <i>Fundación Tatiana Pérez De Guzmán El Bueno</i>
         </mj-text>
-        <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+        <mj-text color="#445566" font-size="11px" align="center" line-height="16px" padding-top="2px" padding-bottom="2px">
           <i>Todos los derechos reservados.</i>
         </mj-text>
-        <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+        <mj-text color="#445566" font-size="11px" align="center" line-height="16px" padding-bottom="2px">
           Paseo del General Martínez Campos, 25
         </mj-text>
-        <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+        <mj-text color="#445566" font-size="11px" align="center" line-height="16px" padding-top="2px" padding-bottom="2px">
           28010. Madrid. España
         </mj-text>
-        <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+        <mj-text color="#445566" font-size="11px" align="center" line-height="16px" padding-top="2px" padding-bottom="2px">
           T. <a href="tel:+34 91 444 33 41">+34 91 444 33 41</a>
         </mj-text>
-        <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+        <mj-text color="#445566" font-size="11px" align="center" line-height="16px" padding-top="2px" >
           <a href="https://emailing.metech.es/2023/02/fundacion-tatiana/doc/contacto-fundacion-tatiana.vcf">Añádenos a tu libreta de direcciones.</a>
         </mj-text>
       </mj-column>
     </mj-section>
 
 
-    <mj-include path="../footer/footer-generico-2.mjml" />
+    <mj-include path="../footer/footer-fundacion.mjml" />
   </mj-body>
 </mjml>

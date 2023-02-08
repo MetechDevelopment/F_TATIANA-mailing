@@ -1,0 +1,15 @@
+<mj-wrapper full-width="full-width" padding-top="0">
+  <mj-section>
+    <mj-column width="100%" padding="0">
+      <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+        Estás recibiendo esta newsletter porque formas parte de la lista de correo de la Fundación Tatiana Pérez de Guzmán el Bueno.
+      </mj-text>
+      <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+        ¿Quieres modificar la forma en la que recibes estos correos?
+      </mj-text>
+      <mj-text color="#445566" font-size="11px" align="center" line-height="16px" font-weight="bold">
+        Puedes <a href="">actualizar tus preferencias</a> o <a href="">darte de baja</a>.
+      </mj-text>
+    </mj-column>
+  </mj-section>
+</mj-wrapper>
