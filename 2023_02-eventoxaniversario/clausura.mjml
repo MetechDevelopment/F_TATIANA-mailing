@@ -254,6 +254,9 @@
           28010. Madrid. España
         </mj-text>
         <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+          T. <a href="tel:+34 91 444 33 41">+34 91 444 33 41</a>
+        </mj-text>
+        <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
           <a href="https://emailing.metech.es/2023/02/fundacion-tatiana/doc/contacto-fundacion-tatiana.vcf">Añádenos a tu libreta de direcciones.</a>
         </mj-text>
       </mj-column>
