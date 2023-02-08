@@ -116,9 +116,9 @@
 
 
     <!-- Img principal -->
-    <mj-section background-url="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/doc/img/header-clausura.jpg" background-size="600px" background-repeat="no-repeat" background-color="#666666" padding="40px 0">
+    <mj-section padding="0">
       <mj-column width="100%">
-        <mj-image src="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/doc/img/simbolo-corporativo.png" width="200px" alt="Fundación Tatiana" />
+        <mj-image src="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/doc/img/header-clausura.jpg" alt="Fundación Tatiana" width="600px" padding="0"/>
       </mj-column>
     </mj-section>
 
