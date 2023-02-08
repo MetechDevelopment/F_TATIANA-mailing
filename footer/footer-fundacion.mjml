@@ -7,7 +7,7 @@
       <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
         ¿Quieres modificar la forma en la que recibes estos correos?
       </mj-text>
-      <mj-text color="#445566" font-size="11px" align="center" line-height="16px" font-weight="bold">
+      <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
         Puedes <a href="">actualizar tus preferencias</a> o <a href="">darte de baja</a>.
       </mj-text>
     </mj-column>
