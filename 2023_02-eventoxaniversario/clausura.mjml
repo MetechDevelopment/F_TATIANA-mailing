@@ -56,13 +56,13 @@
         background-color: #fff;
       }
 
-      .texto__titulo-header {
-        font-family: 'Times New Roman';
+      .title__header {
+        font-family: "Times New Roman", Times, serif;
         font-size: 60px;
+        color: #D3D3D3;
         text-align: center;
-        color: #d3d3d3;
+        line-height: 100%;
       }
-
 
       .texto__titulo {
         font-weight: 300;
@@ -86,6 +86,7 @@
         margin: 0 !important;
       }
 
+
       .column__padding {
         padding: 0 40px !important;
       }
@@ -106,8 +107,8 @@
 
     <mj-section css-class="background__section">
       <mj-column width="100%">
-        <mj-text >
-          <p class="texto__titulo-header">
+        <mj-text>
+          <p class="title__header">
             Evento X Aniversario
           </p>
         </mj-text>
@@ -133,75 +134,129 @@
     </mj-section>
 
     <!-- Agenda -->
-    <mj-section css-class="background__section">
+    <mj-section css-class="background__section" padding-top="0">
       <mj-column width="100%">
         <mj-text css-class="column__padding">
           <p class="texto__titulo">
-            Le recordamos algunas indicaciones sobre el evento: 
+            Le recordamos algunas indicaciones sobre el evento:
           </p>
         </mj-text>
-        <mj-divider border-width="1px" border-style="dashed" border-color="lightgrey" />
+        <mj-divider border-width="1px" padding-left="40px" padding-right="40px" border-style="solid" border-color="#000" />
         <mj-text css-class="column__padding">
           <p class="texto__titulo">
-            20:15. Recepción de los invitados en el acceso del Museo de la Puerta de los Jerónimos.
+            <strong>20:15</strong>. Recepción de los invitados en el acceso del Museo de la Puerta de los Jerónimos.
+          </p>
+        </mj-text>
+        <mj-divider border-width="1px" padding-left="40px" padding-right="40px" border-style="solid" border-color="#000" />
+        <mj-text css-class="column__padding">
+          <p class="texto__titulo">
+            <strong>20:30</strong>. Visita guiada por grupos a la exposición de la Fundación y otras obras maestras del Museo.
+          </p>
+        </mj-text>
+        <mj-divider border-width="1px" padding-left="40px" padding-right="40px" border-style="solid" border-color="#000" />
+        <mj-text css-class="column__padding">
+          <p class="texto__titulo">
+            <strong>21:30</strong>. Cena en la Sala de las Musas del Museo del Prado.
+          </p>
+        </mj-text>
+        <mj-divider border-width="1px" padding-left="40px" padding-right="40px" border-style="solid" border-color="#000" />
+        <mj-text css-class="column__padding">
+          <p class="texto__titulo">
+            Bienvenida y presentación del Director Académico de la Fundación, <strong>Álvaro Matud</strong>.
+          </p>
+          <p class="texto__titulo">
+            Intervenciones de:
+          </p>
+          <p class="texto__titulo">
+            <strong>Maria Vallet</strong>. Catedrática de Química, Premio Jaume I, Presidenta del Jurado del Premio “Julio Peláez” de Pioneras de la Física, la Química y las Matemáticas.
+          </p>
+          <p class="texto__titulo">
+            <strong>Rafael Yuste</strong>. Neurocientífico, Catedrático de Columbia University, Fundador del Brain Project.
+          </p>
+          <p class="texto__titulo">
+            <strong>Diego G. Garrocho</strong>. Vicedecano de la Facultad de Filosofía de la Universidad Autónoma de Madrid.
+          </p>
+          <p class="texto__titulo">
+            <strong>Ana de la Cueva</strong>. Presidenta de Patrimonio Nacional.
+          </p>
+        </mj-text>
+        <mj-divider border-width="1px" padding-left="40px" padding-right="40px" border-style="solid" border-color="#000" />
+        <mj-text css-class="column__padding">
+          <p class="texto__titulo">
+            Proyección del video institucional.
+          </p>
+        </mj-text>
+        <mj-divider border-width="1px" padding-left="40px" padding-right="40px" border-style="solid" border-color="#000" />
+        <mj-text css-class="column__padding">
+          <p class="texto__titulo">
+            Clausura del Presidente de la Fundación,<strong> Teodoro Sánchez-Avila</strong>.
+          </p>
+        </mj-text>
+        <mj-divider border-width="1px" padding-left="40px" padding-right="40px" border-style="solid" border-color="#000" />
+        <mj-text css-class="column__padding">
+          <p class="texto__titulo">
+            Etiqueta del evento: traje para los caballeros.
+          </p>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="background__section" padding-top="0px">
+      <mj-column width="100%">
+        <mj-text css-class="column__padding">
+          <p class="texto__titulo">
+            En caso de no poder llegar a la visita, el acceso a la cena se realizará también desde la Puerta de los Jerónimos del Museo del Prado.
+          </p>
+          <p class="texto__titulo">
+            El carácter especial del entorno del evento nos lleva a rogarte que, en caso de que <strong>no pudieras asistir</strong> finalmente, nos informes haciendo <a href="https://eventoxaniversario.fundaciontatianapgb.org/desub?mail=[Email]&referer=eventoxaniversario" style="color: #A9A9A9;">clic aquí</a>.
           </p>
         </mj-text>
       </mj-column>
     </mj-section>
 
-
-    <!-- texto -->
-    <mj-section css-class="background__section" padding-top="10px">
+    <mj-section css-class="background__section" padding-top="0px">
       <mj-column width="100%">
         <mj-text css-class="column__padding">
-          <p class="texto__titulo">
-            Me dirijo a usted como presidente de la Fundación Tatiana, que tiene su origen en la decisión de <strong>Tatiana Pérez de Guzmán el Bueno</strong> de dejar su patrimonio al servicio de la sociedad. Gracias a esa decisión fundacional, miles de jóvenes investigadores, líderes y emprendedores se benefician hoy de su legado.
-          </p>
+          <strong>Un cordial saludo,</strong>
         </mj-text>
         <mj-text css-class="column__padding">
-          <p class="texto__titulo">
-            Esperando que esta invitación sea de su agrado, aprovecho la ocasión para enviarle un cordial saludo.
-          </p>
+          <strong>Fundación Tatiana Pérez de Guzmán el Bueno</strong>
         </mj-text>
       </mj-column>
     </mj-section>
 
-    <mj-section background-url="https://fundaciontatianapgb-mailing.pages.dev/2023_02-eventoxaniversario/doc/img/back-2.jpg" background-size="100%" background-repeat="no-repeat" background-color="#E5E4E4">
-      <mj-group css-class="padding-column--pie">
-        <mj-column width="60%">
-          <mj-text color="#445566" padding-top="0" padding-bottom="0">
-            <p class="texto__titulo--direccion">
-              Paseo del General Martínez Campos, 25
-            </p>
-          </mj-text>
-          <mj-text color="#445566" padding-top="0" padding-bottom="0">
-            <p class="texto__titulo--direccion">
-              28010. Madrid. España
-            </p>
-          </mj-text>
-          <mj-text color="#445566" padding-top="0">
-            <p class="texto__titulo--direccion">
-              <a href="https://emailing.metech.es/2023/02/fundacion-tatiana/doc/contacto-fundacion-tatiana.vcf" style="color: #000;">Añádenos a tu libreta de direcciones.</a>
-            </p>
-          </mj-text>
-        </mj-column>
 
-        <mj-column width="40%">
-
-        </mj-column>
-      </mj-group>
+    <mj-section background-color="#fff" padding-bottom="0px">
+      <mj-column width="100%">
+        <mj-text align="center">
+          <span class="title__header">8.2.23</span>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="#D3D3D3" />
+      </mj-column>
     </mj-section>
 
-    <mj-section background-color="#c5c5c5" padding-bottom="0" padding-top="0">
-      <mj-group>
-        <mj-column width="100%">
-          <mj-text color="#fff">
-            <p class="texto__titulo">
-              ® Fundación Tatiana Pérez de Guzmán el Bueno
-            </p>
-          </mj-text>
-        </mj-column>
-      </mj-group>
+    <mj-section background-color="#fff" padding-top="0">
+      <mj-column width="100%">
+        <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+          <i>Copyright © 2023</i>
+        </mj-text>
+        <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+          <i>Fundación Tatiana Pérez De Guzmán El Bueno</i>
+        </mj-text>
+        <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+          <i>Todos los derechos reservados.</i>
+        </mj-text>
+        <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+          Paseo del General Martínez Campos, 25
+        </mj-text>
+        <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+          28010. Madrid. España
+        </mj-text>
+        <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+          <a href="https://emailing.metech.es/2023/02/fundacion-tatiana/doc/contacto-fundacion-tatiana.vcf">Añádenos a tu libreta de direcciones.</a>
+        </mj-text>
+      </mj-column>
     </mj-section>
 
 
